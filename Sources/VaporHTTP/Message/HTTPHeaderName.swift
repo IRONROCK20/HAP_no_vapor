@@ -126,7 +126,7 @@ public struct HTTPHeaderName: Codable, Hashable, CustomStringConvertible {
     /// Content-Style-Type header.
     public static let contentStyleType = HTTPHeaderName("Content-Style-Type")
     /// Content-Type header.
-    public static let contentType = HTTPHeaderName("Content-Type")
+    public static let contentType2 = HTTPHeaderName("Content-Type")
     /// Content-Version header.
     public static let contentVersion = HTTPHeaderName("Content-Version")
     /// Cookie header.
